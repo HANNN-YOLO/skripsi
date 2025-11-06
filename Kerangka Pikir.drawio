@@ -1,32 +1,32 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="Ta4Erta8bYXiYFtYdie-">
-    <mxGraphModel dx="1042" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="744" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uVnt7aT8KqtYSoZiXOol-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="70" width="420" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="uVnt7aT8KqtYSoZiXOol-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Penelitian ini diawali dengan permasalahan yang dihadapi mahasiswa dalam mencari tempat kost di wilayah &lt;span style=&quot;&quot; data-end=&quot;831&quot; data-start=&quot;779&quot;&gt;Kelurahan Tamalanrea Indah, Kecamatan Tamalanrea, Kota Makassar&lt;/span&gt;&amp;nbsp;Informasi mengenai kost di daerah tersebut belum tersusun dengan baik dan sulit dibandingkan, sehingga mahasiswa kesulitan menemukan kost yang sesuai kebutuhan dan preferensi mereka.&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="uVnt7aT8KqtYSoZiXOol-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Tempat tinggal, khususnya kost, merupakan kebutuhan utama bagi mahasiswa dan pendatang di wilayah perkotaan seperti Kelurahan Tamalanrea. Peningkatan jumlah mahasiswa membuat kebutuhan akan kost semakin tinggi, namun beragamnya pilihan sering kali menimbulkan kebingungan dalam menentukan tempat tinggal yang sesuai dengan kebutuhan dan kemampuan. Di era digital ini, informasi mengenai penyedia kost semakin berkembang dengan berbagai rekomendasi yang ditawarkan melalui berbagai platform daring.&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="110" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uVnt7aT8KqtYSoZiXOol-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="250" width="420" height="80" as="geometry" />
+          <mxGeometry x="220" y="250" width="420" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="uVnt7aT8KqtYSoZiXOol-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perkembangan teknologi informasi, khususnya &lt;span data-end=&quot;1082&quot; data-start=&quot;1063&quot;&gt;aplikasi mobile&lt;/span&gt;, membuka peluang untuk mengatasi permasalahan tersebut dengan menyediakan sistem yang mampu membantu pengguna mencari dan membandingkan kost secara efisien.&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="260" width="380" height="60" as="geometry" />
+        <mxCell id="uVnt7aT8KqtYSoZiXOol-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Ketersediaan informasi kost yang beragam belum sepenuhnya memudahkan pencari kost dalam menentukan pilihan terbaik. Perbedaan kebutuhan setiap individu, seperti jarak ke kampus, fasilitas, dan harga, membuat proses pemilihan memerlukan pertimbangan lebih matang. Hal ini menyebabkan banyak calon penyewa harus melalui proses pencarian yang panjang sebelum menemukan kost yang sesuai.&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="270" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uVnt7aT8KqtYSoZiXOol-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="400" width="420" height="80" as="geometry" />
+          <mxGeometry x="220" y="400" width="420" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="uVnt7aT8KqtYSoZiXOol-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Untuk menghasilkan rekomendasi yang objektif dan sesuai preferensi pengguna, digunakan &lt;span style=&quot;&quot; data-end=&quot;1372&quot; data-start=&quot;1330&quot;&gt;metode Simple Additive Weighting (SAW)&lt;/span&gt;. Metode ini mampu memberikan peringkat terhadap alternatif kost berdasarkan kriteria seperti &lt;span data-end=&quot;1510&quot; data-start=&quot;1466&quot;&gt;harga, fasilitas, luas kamar, dan lokasi&lt;/span&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="405" width="410" height="70" as="geometry" />
+        <mxCell id="uVnt7aT8KqtYSoZiXOol-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sebagai upaya untuk membantu proses tersebut, penelitian ini mengusulkan pengembangan aplikasi mobile rekomendasi kost dengan menerapkan metode &lt;i&gt;Simple Additive Weighting (SAW)&lt;/i&gt;. Metode ini digunakan karena mampu memberikan hasil rekomendasi yang objektif berdasarkan kriteria terukur seperti harga, jarak, keamanan, luas kamar, fasilitas, batas jam malam, jenis air, jenis listrik, lokasi pendukung, dan akses transportasi umum.&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="225" y="420" width="400" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uVnt7aT8KqtYSoZiXOol-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="540" width="420" height="70" as="geometry" />
+          <mxGeometry x="220" y="580" width="420" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uVnt7aT8KqtYSoZiXOol-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;Hasil akhir dari penelitian ini diharapkan berupa A&lt;span style=&quot;&quot; data-end=&quot;1584&quot; data-start=&quot;1565&quot;&gt;plikasi Mobile&lt;/span&gt; berbasis &lt;span data-end=&quot;1605&quot; data-start=&quot;1594&quot;&gt;Flutter&lt;/span&gt; dengan &lt;span data-end=&quot;1625&quot; data-start=&quot;1613&quot;&gt;Supabase&lt;/span&gt; sebagai backend, yang dapat membantu mahasiswa dalam mencari kost secara lebih mudah, cepat, dan sesuai kebutuhan&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="545" width="360" height="60" as="geometry" />
+        <mxCell id="uVnt7aT8KqtYSoZiXOol-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;Melalui penerapan metode &lt;i&gt;SAW&lt;/i&gt; pada aplikasi mobile ini, diharapkan pengguna dapat memperoleh rekomendasi kost yang tepat dan efisien sesuai kebutuhan. Penelitian ini juga menjadi langkah awal dalam pengembangan sistem rekomendasi kost berbasis teknologi untuk mempermudah akses informasi bagi mahasiswa.&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="227.5" y="585" width="405" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uVnt7aT8KqtYSoZiXOol-12" value="" style="endArrow=none;html=1;rounded=0;startArrow=classicThin;startFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -43,7 +43,7 @@
         <mxCell id="uVnt7aT8KqtYSoZiXOol-15" value="" style="endArrow=none;html=1;rounded=0;startArrow=classicThin;startFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="421" y="400" as="sourcePoint" />
-            <mxPoint x="420" y="330" as="targetPoint" />
+            <mxPoint x="420" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
