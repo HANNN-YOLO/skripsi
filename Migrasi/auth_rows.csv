@@ -6,14 +6,12 @@ id_auth,UID,username,Email,role,createdAt,updatedAt
 50,3f78fe34-7020-4ff2-bd43-ba04562f47a9,Anto,anto@gmail.com,Pemilik,2026-01-12 00:16:48.091243+00,
 51,ab7196eb-6cf3-4329-8e10-228edf0e22b2,Maya,maya@gmail.com,Pemilik,2026-01-12 00:23:43.071209+00,
 52,dd141a26-f1ce-4c26-bc82-f0bc6117d3d9,Hamida,hamida@gmail.com,Pemilik,2026-01-12 00:36:39.358466+00,
-67,34473cf7-1209-40ea-b53b-b56ec91c02e6,irwan,irwan@gmail.com,Penyewa,2026-02-02 03:58:02.626733+00,
-68,1de52ee5-ece9-428d-b834-2284df303c99,reyhan,reyhanrafaidhil1126@gmail.com,Penyewa,2026-02-03 08:40:35.99113+00,
-72,5eb7eaa1-2156-4c7c-bc35-df84b399d8a0,asrul,asrul@gmail.com,Penyewa,2026-02-05 04:25:29.778975+00,
+67,34473cf7-1209-40ea-b53b-b56ec91c02e6,irwan syahrir,irwan@gmail.com,Penyewa,2026-02-02 03:58:02.626733+00,2026-02-16 22:20:01.468674+00
+68,1de52ee5-ece9-428d-b834-2284df303c99,reyhan rafaidhil we,reyhanrafaidhil1126@gmail.com,Penyewa,2026-02-03 08:40:35.99113+00,2026-02-18 10:56:43.539438+00
 78,0563c029-104e-4e6a-b9d6-9d9809530bf1,Akil,akil@gmail.com,Pemilik,2026-02-08 08:55:05.29687+00,
 80,46134ccb-5217-4b07-b8b0-1a45b552eb27,Susan,susan@gmail.com,Pemilik,2026-02-08 09:15:43.781023+00,
 81,a6749a1f-2f2f-4215-b0f1-d43558efe591,Akbar,akbar@gmail.com,Pemilik,2026-02-08 09:23:25.676696+00,
 82,a617df38-5ffa-4e7d-a5ae-1a57b26de4e4,Anis Adrian,anis@gmail.com,Pemilik,2026-02-08 09:36:03.95979+00,
 83,a923e484-69e9-45dc-9147-fed3f74db4db,Ernawati,ernawati@gmail.com,Pemilik,2026-02-08 09:43:47.270914+00,
 84,2fb3c435-b1fb-421f-8bae-c05f9c7f6425,Sadli,sadli@gmail.com,Pemilik,2026-02-08 09:51:05.623316+00,
-86,a0ffa7c5-1540-45d9-96d0-fa3c28966a6c,testing,testing@gmail.com,Pemilik,2026-02-09 14:00:41.989559+00,
-87,4d86679a-35dc-4923-a8d3-0a11dccc0853,diki,diki@gmail.com,Pemilik,2026-02-11 03:22:17.616996+00,
+100,e2244f2f-c614-4cb9-9605-050dd81de2bd,pemilik oksi ga,pemilik@gmail.com,Pemilik,2026-02-18 23:27:55.061815+00,2026-02-19 07:29:09.744044+00
